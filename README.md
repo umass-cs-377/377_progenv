@@ -96,6 +96,12 @@ Now, from you host operating system navigate to the PROGENV folder and
 look inside. You should see the `hello.txt` file. Voila, your VM
 environment is now ready for this course!
 
+# Cheatsheets
+
+We have provided a number of "cheatsheets" in the `docs` folder that
+you are welcome to use. They may be helpful when you begin learning
+one of the editors below. 
+
 # Programming Editors
 
 We highly recommend that you learn one of the following editors for
@@ -122,3 +128,8 @@ $ vim
 $ nano
 ```
 
+Although we **really** want you to learn either `vim` or `emacs`, you
+are able to use an alternative editor from your host OS by
+opening/saving files in the PROGENV directory. If you are a CS student
+you should not discount the importance of learning one of these
+editors - it will surely save your life in the future.
