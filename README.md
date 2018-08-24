@@ -1,5 +1,7 @@
 # Course Programming Environment
 
+![Vagrant Up](./imgs/vagrant_up.gif)
+
 # VirtualBox and Vagrant
 
 The best way to make sure your projects will work on the autograder is
@@ -42,6 +44,20 @@ Setting up your virtual machine (VM) environment is easy:
    Make sure you are connected to the internet. This command will
    download the VM image and install lots of packages to setup your
    very own programming environment for this course!
+   
+   Note: if you see the following:
+   
+   ```bash
+   default: Warning: Connection reset. Retrying...
+   default: Warning: Remote connection disconnect. Retrying...
+   default: Warning: Connection reset. Retrying...
+   default: Warning: Remote connection disconnect. Retrying...
+   default: Warning: Connection reset. Retrying...
+   default: Warning: Remote connection disconnect. Retrying...
+   default: Warning: Connection reset. Retrying...
+   ```
+   
+   Be patient - it will eventually connect.
    
 After you have completed setting up the VM environment, you can login
 to the virtual machine with this simple command:
