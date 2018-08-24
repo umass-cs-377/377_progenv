@@ -1,6 +1,6 @@
 # Course Programming Environment
 
-![Vagrant Up](./imgs/vagrant_up.gif)
+![Vagrant Up](./.imgs/vagrant_up.gif)
 
 # VirtualBox and Vagrant
 
