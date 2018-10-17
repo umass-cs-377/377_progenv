@@ -7,7 +7,7 @@ apt-get upgrade -y
 apt-get install -y python3-pip
 apt-get install -y emacs vim git gdb splint valgrind astyle doxygen
 apt-get install -y wget curl build-essential emacs vim git libgtest-dev zip
-apt-get install -y cmake
+apt-get install -y cmake clang-format
 cd /usr/src/gtest
 cmake CMakeLists.txt
 make
